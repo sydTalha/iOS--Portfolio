@@ -106,5 +106,8 @@ It’s a tax calculating iOS application for UK based citizens. It uses Stripe P
 ## Role
 Working solely as an iOS Developer on the project from implementing design and backend logic to final testing
 
-
+## Teck Stack
+- UIKit
+- MVC
+- Firestore
 
