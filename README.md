@@ -110,4 +110,39 @@ Working solely as an iOS Developer on the project from implementing design and b
 - UIKit
 - MVC
 - Firestore
+- Stripe Payment Gateway
+
+
+# 6. ManRim
+It’s a cross platform native iOS and android application which provides matchmaking for real sports such as football, cricket, hockey or baseball which involves organizing a team by inviting people for that specific game at that specific place.
+
+
+## Demo Video: https://youtu.be/ctEpwbsEqN0
+
+
+## Role
+Working solely as an iOS Developer on the project from implementing design and backend logic to final testing
+
+
+## Teck Stack
+- UIKit
+- MVC
+- Firebase
+
+
+# 7. BusTrack
+It’s a complete tracking system of my University’s transport system which included an iOS, android and a Web application, it contains a driver and a user side application which uses mobile GPS for location tracking of the bus on a specific route further backed up by an admin panel which is web based
+
+## Demo Video: https://youtu.be/LnTReYfh99o
+
+
+## Role
+Working solely as an iOS Developer on the project from implementing design and backend logic to final testing
+
+
+## Teck Stack
+- UIKit
+- MVC
+- Firebase
+
 
