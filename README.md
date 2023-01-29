@@ -1,5 +1,24 @@
 # iOS--Portfolio
-Overall having 3 years of experience in iOS development. I've developed several apps in UIKit as well as SwiftUI having knowledge of MVVM, MVC and VIPER design patterns. Currently I'm working with a company by the name of Zuntech as an iOS Developer.
+Overall having 3 years of experience in iOS development. I've developed several apps in UIKit as well as SwiftUI having knowledge of MVVM, MVC and VIPER design patterns. Currently I'm working in 2 companies on contract basis; AppCake and Wingsoft as an iOS Developer.
+
+
+# 1. MarineTraffic
+It is a live ship tracking app which shows live vessel data feeds. It also has weather maps feature which shows different type of maps like Heat Map, Wind Directions, Storm Warnings and Percipitation. This app is developed in UIKit using MVC architecture without storyboards.
+
+## Role
+Solely developed the app from design till final product
+
+## Tech Stack
+- UIKit
+- MVC
+- Firestore
+- Google Maps SDK
+- Vessel Finder API
+- OpenWeatherMaps API
+
+
+https://user-images.githubusercontent.com/33785392/215316631-3bb610a3-8728-46cf-8c0a-08db2a181a12.mp4
+
 
 # 1. CryptoCoin Pro
 
@@ -8,7 +27,7 @@ It is a crypto exchange platform where a user can monitor different crypto news 
 ## Role
 Developing in a team of 3 developers working closely with product manager mainly on iOS version of the app
 
-## Teck Stack
+## Tech Stack
 - SwiftUI + Combine
 - MVVM
 - Firestore
