@@ -72,7 +72,7 @@ Developed solely for apple tvOS platform from scratch
 https://user-images.githubusercontent.com/33785392/215318487-e88a3855-9f15-4a65-a7a4-a2a014f33af6.MP4
 
 
-# 5. KissanMart iOS
+# 5. Kisaan Mart iOS
 This app is mainly for farmers who want to sell their crops in the local market targeted mainly towards Pakistani farmers and the users can buy directly from the farmers themselves. It was developed in UIkit with MVVM architecture.
 
 ## Role 
