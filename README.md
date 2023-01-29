@@ -20,6 +20,32 @@ Solely developed the app from design till final product
 https://user-images.githubusercontent.com/33785392/215316631-3bb610a3-8728-46cf-8c0a-08db2a181a12.mp4
 
 
+# 2. Veggo iOS
+It is a fruits and vegetable delivery application whose main purpose is to faciliate buying and vegetables and fruits for the people of Chile. The app is developed in SwiftUI using MVVM and VIPER architecture. It has payment gateway, push notification services and app tracking/analytics.
+
+## Role
+Maintaining the application by adding features and fixing bugs
+
+## Tech Stack
+- SwiftUI
+- MVVM and VIPER
+- Firebase
+- AppsFLyer
+- Push Notifications
+
+## App Store Link
+https://apps.apple.com/pk/app/veggo/id1520405867
+
+
+![IMG_0525](https://user-images.githubusercontent.com/33785392/215317341-d107a85d-918a-49f4-8ea6-5f1af2823d29.PNG)
+![IMG_0521](https://user-images.githubusercontent.com/33785392/215317332-ee37e410-964e-4905-b5e7-cd3291398437.PNG)
+![IMG_0522](https://user-images.githubusercontent.com/33785392/215317336-1264fe97-d83e-4a6f-846d-a613febc6c76.PNG)
+![IMG_0523](https://user-images.githubusercontent.com/33785392/215317339-b0bf8ded-b8b1-4bcd-8157-9e5cdc09e5f2.PNG)
+![IMG_0524](https://user-images.githubusercontent.com/33785392/215317340-944293ea-c628-4258-89ce-f02c811070de.PNG)
+
+
+
+
 # 1. CryptoCoin Pro
 
 It is a crypto exchange platform where a user can monitor different crypto news and prices and also add his portfolio of investments with correct alerts using push notifications.
