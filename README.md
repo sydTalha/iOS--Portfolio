@@ -17,6 +17,8 @@ Solely developed the app from design till final product
 - Vessel Finder API
 - OpenWeatherMaps API
 
+## App Store Link:
+https://apps.apple.com/us/app/marine-traffic-navigation/id1666492082
 
 https://user-images.githubusercontent.com/33785392/215316631-3bb610a3-8728-46cf-8c0a-08db2a181a12.mp4
 
