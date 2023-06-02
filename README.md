@@ -2,8 +2,17 @@
 Overall having 3 years of experience in iOS development. I've developed several apps in UIKit as well as SwiftUI having knowledge of MVVM, MVC and VIPER design patterns. Currently I'm working in 2 companies on contract basis; AppCake and Wingsoft as an iOS Developer.
 I love to work remotely and always looking for better opportunities. :) 
 
+# 1. Chat-GPT AI Messenger
+It is an AI bot messenger app using Open AI's 'gpt-3.5-turbo-0301' as an AI model. This app is developed in SwiftUI with custom ChatView UI.
 
-# 1. MarineTraffic
+## Role
+Solely developed the app from design till final product
+
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-06-02 at 14 10 58](https://github.com/sydTalha/iOS--Portfolio/assets/33785392/0416848d-7510-4258-9778-f2452f8b716a)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-06-02 at 14 12 04](https://github.com/sydTalha/iOS--Portfolio/assets/33785392/273bed19-cbf6-4bbe-8eac-a5a1ba02e7ca)
+
+
+# 2. MarineTraffic
 It is a live ship tracking app which shows live vessel data feeds. It also has weather maps feature which shows different type of maps like Heat Map, Wind Directions, Storm Warnings and Percipitation. This app is developed in UIKit using MVC architecture without storyboards.
 
 ## Role
@@ -23,7 +32,7 @@ https://apps.apple.com/us/app/marine-traffic-navigation/id1666492082
 https://user-images.githubusercontent.com/33785392/215316631-3bb610a3-8728-46cf-8c0a-08db2a181a12.mp4
 
 
-# 2. Veggo iOS
+# 3. Veggo iOS
 It is a fruits and vegetable delivery application whose main purpose is to faciliate buying and vegetables and fruits for the people of Chile. The app is developed in SwiftUI using MVVM and VIPER architecture. It has payment gateway, push notification services and app tracking/analytics.
 
 ## Role
@@ -47,7 +56,7 @@ https://apps.apple.com/pk/app/veggo/id1520405867
 ![IMG_0524](https://user-images.githubusercontent.com/33785392/215317340-944293ea-c628-4258-89ce-f02c811070de.PNG)
 
 
-# 3. Kableone
+# 4. Kableone
 It is a VOD media streaming platform for Indian Movies and Tv Shows hosted internally on Unisys servers. The iOS app allows users to stream media on their devices. It was developed in UIKit with MVVM architecture having features like video streaming, live tv, in app purchases and stories / previews.
 
 ## Role
@@ -66,7 +75,7 @@ Developing in a team of 2 developers myself included added features and maintain
 ![IMG_0433](https://user-images.githubusercontent.com/33785392/215317933-73b31ec8-8f45-4c87-ad72-b89a81610d5e.PNG)
 
 
-# 4. Kableone TV
+# 5. Kableone TV
 It is a VOD media streaming platform same as kableone but for apple tv devices. The app is developed solely for tvOS platforms which uses gestures for navigation. It was developed in UIKit with MVVM having linkage with Kableone mobile app through which the user can login to the tvOS app.
 
 ## Role
@@ -75,7 +84,7 @@ Developed solely for apple tvOS platform from scratch
 https://user-images.githubusercontent.com/33785392/215318487-e88a3855-9f15-4a65-a7a4-a2a014f33af6.MP4
 
 
-# 5. Kisaan Mart iOS
+# 6. Kisaan Mart iOS
 This app is mainly for farmers who want to sell their crops in the local market targeted mainly towards Pakistani farmers and the users can buy directly from the farmers themselves. It was developed in UIkit with MVVM architecture.
 
 ## Role 
@@ -93,7 +102,7 @@ Developed solely from design to final product
 ![Simulator Screen Shot - iPhone SE (3rd generation) - 2023-01-29 at 12 52 03](https://user-images.githubusercontent.com/33785392/215318571-57f8dc93-9de7-49c8-bbe7-e830b0afd609.png)
 ![Simulator Screen Shot - iPhone SE (3rd generation) - 2023-01-29 at 12 52 15](https://user-images.githubusercontent.com/33785392/215318572-48d3ba69-3bcf-4782-b96b-8dd2ce1ef968.png)
 
-# 6. CryptoCoin Pro
+# 7. CryptoCoin Pro
 
 It is a crypto exchange platform where a user can monitor different crypto news and prices and also add his portfolio of investments with correct alerts using push notifications.
 
@@ -110,7 +119,7 @@ Developing in a team of 3 developers working closely with product manager mainly
 https://user-images.githubusercontent.com/33785392/155497824-de870302-e889-4745-98e0-e726d7a949d1.mp4
 
 
-# 7. RAJAARANI
+# 8. RAJAARANI
 
 It is a matrimony application similar to tinder on android and iOS with features of Audio/Video calls, chat messaging, push notifications using Twilio SDK.
 
@@ -130,7 +139,7 @@ iOS developer Communicating with client, understanding requirements and sprint p
 https://user-images.githubusercontent.com/33785392/155501376-6630aeea-0cad-4e99-85e4-dec6d6935d12.mp4
 
 
-# 8. QrVirus
+# 9. QrVirus
 QrVirus and IBounce are two same applications but in different languages, it is basically an iOS and Android QR Code scanning application developed for contact tracing of COVID-19 for Lithuanian Government for checking of entry and exists of any place 
 
 ## App Store Link: https://apps.apple.com/bz/app/qrvirus/id1540419838
@@ -147,7 +156,7 @@ iOS developer Communicating with client, understanding requirements and sprint p
 https://user-images.githubusercontent.com/33785392/155502375-4a1d5506-eeef-42fc-9373-d204ce097eb0.mp4
 
 
-# 9. Shades Angels
+# 10. Shades Angels
 Angels is a service provider version for the Shades project similar to a driver app for Uber where beautician receives an order and also maintain a wallet including payment gateways. Developed in swift using storyboards.
 
 ## App Store Link: https://apps.apple.com/pk/app/shades-angels/id1559890417
@@ -170,7 +179,7 @@ Working in a team of 3 developers, getting requirements, adding features and ref
 <img width="617" alt="Shades Angels - 2" src="https://user-images.githubusercontent.com/33785392/155503578-6321bd9a-45df-4401-b4c4-0b316fa99f0b.png">
 
 
-# 10. Shades App
+# 11. Shades App
 Shades is an iOS application mainly for females living USA and UAE for their beauty needs. Just like uber a beautician will come to specified address for the treatment. It was developed using swift and storyboards in xcode and cloud firestore as a backend. It includes features like google maps SDK and chat messaging
 
 ## App Store Link: https://apps.apple.com/pk/app/shades-app/id1559888861
@@ -190,7 +199,7 @@ Working solely as an iOS Developer on the project from implementing design and b
 ![Shades App](https://user-images.githubusercontent.com/33785392/155504248-eadb721a-27b3-4ddf-b52a-e8b98b887a74.png)
 
 
-# 11. KickStart Tax Rebate
+# 12. KickStart Tax Rebate
 It’s a tax calculating iOS application for UK based citizens. It uses Stripe Payment Gateway Integration to process online payments and Firebase as database and Cloud Firestore as a backend with features like scanning receipts from iPhone’s camera and complete user authentication.
 
 ## Demo Video: https://youtu.be/hQGIn2bLHOw
@@ -205,7 +214,7 @@ Working solely as an iOS Developer on the project from implementing design and b
 - Stripe Payment Gateway
 
 
-# 12. ManRim
+# 13. ManRim
 It’s a cross platform native iOS and android application which provides matchmaking for real sports such as football, cricket, hockey or baseball which involves organizing a team by inviting people for that specific game at that specific place.
 
 
@@ -222,7 +231,7 @@ Working solely as an iOS Developer on the project from implementing design and b
 - Firebase
 
 
-# 13. BusTrack
+# 14. BusTrack
 It’s a complete tracking system of my University’s transport system which included an iOS, android and a Web application, it contains a driver and a user side application which uses mobile GPS for location tracking of the bus on a specific route further backed up by an admin panel which is web based
 
 ## Demo Video: https://youtu.be/LnTReYfh99o
