@@ -1,5 +1,5 @@
 # iOS--Portfolio
-Overall having 3 years of experience in iOS development. I've developed several apps in UIKit as well as SwiftUI having knowledge of MVVM, MVC and VIPER design patterns. Currently I'm working in 2 companies on contract basis; AppCake and Wingsoft as an iOS Developer.
+Overall having 3 years of experience in iOS development. I've developed several apps in UIKit as well as SwiftUI having knowledge of MVVM, MVC and VIPER design patterns. Currently I'm working at Wingsoft as an iOS Developer.
 I love to work remotely and always looking for better opportunities. :) 
 
 # 1. Chat-GPT AI Messenger
